@@ -7,7 +7,7 @@ namespace oopLaba2_2
         static void Main(string[] args)
         {
             Console.WriteLine("|x    |    y=f(x)|");
-            double a=-6, b = 3;
+            double x=-6, b = 3;
             double y;
             double x=a;
             while(x<b)
